@@ -3,6 +3,5 @@
 - English:
 Just me, training in Golang  
 ##
-- Portugês:
+- Português:
 Pasta que contém meu treinamento na linguagem Golang
-=======
